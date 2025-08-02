@@ -8,7 +8,7 @@ Eliminates repetitive knowledge transfer sessions by allowing new team members t
 
 ## 🎯 Problem Solved
 
-**Before:** Senior engineers spend 4-6 hours per new hire explaining the same Integration technologies, system rchitecture, POCs, and environment setup procedures.
+**Before:** Senior engineers spend 4-6 hours per new hire explaining the same Integration technologies, system Architecture, POCs, and environment setup procedures.
 
 **After:** New hires get instant, 24/7 access to expert knowledge through an AI assistant that provides step-by-step guidance with source citations.
 
