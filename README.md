@@ -160,7 +160,9 @@ Open a Pull Request
 4. Notice source attribution and relevance scoring
 
 ## 📱 Screenshots
-[Add screenshots of your working interface]
+<img width="1512" height="982" alt="Screenshot 2025-08-03 at 10 19 24 PM" src="https://github.com/user-attachments/assets/72490c6f-6eb4-4156-b92f-04b87a28fa31" />
+
+
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
