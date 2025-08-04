@@ -160,7 +160,7 @@ Open a Pull Request
 4. Notice source attribution and relevance scoring
 
 ## 📱 Screenshots
-<img width="1512" height="982" alt="Screenshot 2025-08-03 at 10 19 24 PM" src="https://github.com/user-attachments/assets/72490c6f-6eb4-4156-b92f-04b87a28fa31" />
+[Knowledge Transfer Assistant Interface](https://github.com/user-attachments/assets/72490c6f-6eb4-4156-b92f-04b87a28fa31)
 
 
 
