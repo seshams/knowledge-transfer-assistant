@@ -144,6 +144,24 @@ Commit your changes (git commit -m 'Add amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
+
+## 🌐 Live Demo
+
+**Try the cloud demo:** [https://huggingface.co/spaces/seshams/knowledge-transfer-assistant](https://huggingface.co/spaces/seshams/knowledge-transfer-assistant)
+
+*Note: The cloud demo shows the core RAG architecture and document processing capabilities. The full local version includes Llama 3.1 for AI-generated responses.*
+
+### Demo Instructions:
+1. Click "🔄 Initialize Knowledge Base" 
+2. Wait for document processing to complete
+3. Try example questions:
+   - "How do I configure SSL certificates in DataPower?"
+   - "What are the API Connect installation steps?"
+4. Notice source attribution and relevance scoring
+
+## 📱 Screenshots
+[Add screenshots of your working interface]
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
