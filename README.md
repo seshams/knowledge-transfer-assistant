@@ -160,9 +160,14 @@ Open a Pull Request
 4. Notice source attribution and relevance scoring
 
 ## 📱 Screenshots
-[Knowledge Transfer Assistant Interface](https://github.com/user-attachments/assets/72490c6f-6eb4-4156-b92f-04b87a28fa31)
+### 1. System Initialization
+![sysInterface](https://github.com/user-attachments/assets/fd62bf08-99a1-4842-908f-337f105ee84a)
 
+### 2. Question & Answer Interface
+![QnA](https://github.com/user-attachments/assets/6186868b-1218-44fb-a1d9-1b016242052e)
 
+### 3. Response Quality Example
+![Quality](https://github.com/user-attachments/assets/9bb46149-c492-426b-8740-61ce18182754)
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
